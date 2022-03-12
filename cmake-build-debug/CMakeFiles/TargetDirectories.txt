@@ -1,0 +1,3 @@
+/home/victor/CLionProjects/Test SDL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/victor/CLionProjects/Test SDL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/victor/CLionProjects/Test SDL/cmake-build-debug/CMakeFiles/SDL.dir
